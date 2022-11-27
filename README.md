@@ -32,8 +32,6 @@
 
 - 🌱 Estou aprendendo front-end e back-end ...
 
-- 👯 Estou em busca de um emprego! Hehe ...
-
 - 📫 Como entrar em contado comigo: Manda um email para lucmvl2003@gmail.com
 
 - 😄 Pronouns: Ele/dele

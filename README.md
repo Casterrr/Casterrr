@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Matheus, estudante de TI, tentando ingressar e trabalhar nessa área!
+### Olá, eu sou o Lucas Matheus, estudante de TI, desenvolvedor mobile com 1 ano de experiência na área!
 
 <div align="center">
   <a href="https://github.com/Casterrr">
@@ -31,11 +31,11 @@
 
 - 😃 Atualmente sou estudante na área de TI ...
 
-- 🌱 Estou aprendendo front-end e back-end ...
+- 🌱 Aprendi e continuo aprendendo front-end e back-end ...
 
 - 📫 Como entrar em contado comigo: Manda um email para lucmvl2003@gmail.com
 
 - 😄 Pronouns: Ele/dele
 
-- ⚡ Fun fact: Nem sabia que ia tentar seguir carreira nessa área hah, mas tamo aí!
+- ⚡ Fun fact: Nem sabia que ia seguir carreira em TI mesmo, mas estou gostando bastante!
 

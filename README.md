@@ -14,15 +14,6 @@
 - Databases: PostgreSQL, Oracle, SQLite
 - Tools: Git, Docker, Prisma, TypeORM, Oracle APEX
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Casterrr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Casterrr&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=15px"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casterrr&layout=compact&langs_count=7&theme=omni&border_radius=15px"/>
-  </a>
-</div>
-
 ### Technologies
 
 <div align="center">
